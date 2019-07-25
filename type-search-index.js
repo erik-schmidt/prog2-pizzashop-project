@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Blatt5.Model","l":"PizzaSize"}]
